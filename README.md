@@ -1,4 +1,5 @@
 CSS Wave Effect
+![image alt](https://github.com/bdnath702/CSS-Wave-Effect/blob/main/Screenshot%20.png?raw=true)
 
 A simple and beautiful CSS Wave Effect using pure CSS. This effect creates an animated wave-style text effect using multiple layers of text styling.
 
