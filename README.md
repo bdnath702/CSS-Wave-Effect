@@ -9,7 +9,7 @@ A simple and beautiful CSS Wave Effect using pure CSS. This effect creates an an
 
 🚀 Features
 
-Pure CSS implementation (no JavaScript required)
+Pure CSS implementation (no JavaScript required).
 
 Smooth and visually appealing wave animation.
 
