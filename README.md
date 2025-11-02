@@ -5,7 +5,7 @@ A simple and beautiful CSS Wave Effect using pure CSS. This effect creates an an
 
 🔥 Demo.
 
- (Replace with an actual preview image or GIF)
+ (Replace with an actual preview image or GIF).
 
 🚀 Features
 
