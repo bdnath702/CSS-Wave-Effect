@@ -13,7 +13,7 @@ Pure CSS implementation (no JavaScript required)
 
 Smooth and visually appealing wave animation
 
-Fully responsive design.
+Fully responsive design
 
 Customizable colors, font size, and stroke thickness.
 
