@@ -15,5 +15,5 @@ Smooth and visually appealing wave animation
 
 Fully responsive design.
 
-Customizable colors, font size, and stroke thickness.
+Customizable colors, font size, and stroke thickness
 
