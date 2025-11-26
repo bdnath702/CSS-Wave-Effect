@@ -10,7 +10,7 @@ A simple and beautiful CSS Wave Effect using pure CSS. This effect creates an an
 
 Pure CSS implementation (no JavaScript required)
 
-Smooth and visually appealing wave animation
+Smooth and visually appealing wave animation.
 
 Fully responsive design.
 
